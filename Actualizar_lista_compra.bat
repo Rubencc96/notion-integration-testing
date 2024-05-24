@@ -1,0 +1,1 @@
+d:/Usuarios/rrrei/Desktop/Notion/notion-casa/.venv/Scripts/python.exe d:/Usuarios/rrrei/Desktop/Notion/notion-casa/main.py
